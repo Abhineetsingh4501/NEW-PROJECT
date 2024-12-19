@@ -1,4 +1,4 @@
 # first-repository
 this is my first project.
 <br>
-Author - Abhineet singh
+Author - Abhineet(first repository)
