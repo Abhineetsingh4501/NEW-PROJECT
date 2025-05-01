@@ -1,4 +1,4 @@
-# first-repository
-this is my first project.
+# COMING SOON
+THINKING ABOUT NEW PROJECT.
 <br>
-Author - Abhineet(first repository)
+Author - Abhineet(COMING SOON)
